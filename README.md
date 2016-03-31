@@ -50,4 +50,14 @@ Tareas a realizar:
   - Se tienen que distinguir al menos en el título del lightbox y en el texto del botón `submit`.
 
 
+Preguntas interesantes a hacerse:
+- JS
+  - Arquitectura
+  - Estructura de directorios
+  - Tipos de Tests
+- Maqueta
+  - Flexbox
+  - Inkscape
+
+
 ¡Gracias y a darle duro! :-)
